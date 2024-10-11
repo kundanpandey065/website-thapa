@@ -1,0 +1,23 @@
+
+[
+    {
+      "id": 1,
+      "icon": "MdPlace",
+      "title": "Find Us",
+      "detail": "Noida, Uttar Pradesh"
+    },
+    {
+        "id": 2,
+        "icon": "IoCallSharp",
+        "title": "Call Us",
+        "detail": "+91 8700328890"
+    },
+    {
+        "id": 3,
+        "icon": "TbMailPlus",
+        "title": "Mail Us",
+        "detail": "kundan@gmail.com"
+    }
+
+]
+

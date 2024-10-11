@@ -1,0 +1,549 @@
+[
+    {
+      "id": 1,
+      "country_name": "India",
+      "capital": "New Delhi",
+      "population": 1400000000,
+      "interesting_facts": [
+        "India is the world's largest democracy.",
+        "It is home to the ancient Indus Valley Civilization.",
+        "India is the birthplace of four major religions: Hinduism, Buddhism, Jainism, and Sikhism.",
+        "The game of chess originated in India.",
+        "India has the second-largest English-speaking population in the world."
+      ]
+    },
+    {
+      "id": 2,
+      "country_name": "United States",
+      "capital": "Washington, D.C.",
+      "population": 331000000,
+      "interesting_facts": [
+        "The U.S. is the third most populous country in the world.",
+        "It is home to the world's largest economy.",
+        "The U.S. has no official language at the federal level.",
+        "Yellowstone National Park was the first national park in the world.",
+        "The U.S. has the highest number of Nobel Prize winners."
+      ]
+    },
+    {
+      "id": 3,
+      "country_name": "China",
+      "capital": "Beijing",
+      "population": 1440000000,
+      "interesting_facts": [
+        "China has the world's largest population.",
+        "The Great Wall of China is one of the Seven Wonders of the World.",
+        "China invented paper, gunpowder, and printing.",
+        "It has the world's oldest continuous civilization.",
+        "Chinese is the most spoken language in the world."
+      ]
+    },
+    {
+      "id": 4,
+      "country_name": "Brazil",
+      "capital": "Brasilia",
+      "population": 213000000,
+      "interesting_facts": [
+        "Brazil is the largest country in South America.",
+        "It is the only country in South America where Portuguese is the official language.",
+        "The Amazon Rainforest, the world's largest, is in Brazil.",
+        "Brazil has won the FIFA World Cup a record five times.",
+        "Carnival in Rio de Janeiro is the world's largest festival."
+      ]
+    },
+    {
+      "id": 5,
+      "country_name": "Australia",
+      "capital": "Canberra",
+      "population": 26000000,
+      "interesting_facts": [
+        "Australia is the only country that is also a continent.",
+        "It has more kangaroos than people.",
+        "Australia is home to the world's largest coral reef, the Great Barrier Reef.",
+        "It is the flattest and driest inhabited continent.",
+        "Australia has the world's oldest living cultures, the Aboriginal people."
+      ]
+    },
+    {
+      "id": 6,
+      "country_name": "Japan",
+      "capital": "Tokyo",
+      "population": 125800000,
+      "interesting_facts": [
+        "Japan consists of over 6,800 islands.",
+        "It has more than 80,000 shrines and temples.",
+        "The world's oldest company, Kongo Gumi, was founded in Japan in 578 AD.",
+        "Japan has the highest life expectancy in the world.",
+        "It is the birthplace of sushi and manga."
+      ]
+    },
+    {
+      "id": 7,
+      "country_name": "Germany",
+      "capital": "Berlin",
+      "population": 83000000,
+      "interesting_facts": [
+        "Germany is known as the land of poets and thinkers.",
+        "It is home to over 2,100 castles.",
+        "Germany is the birthplace of the printing press.",
+        "The first car was built by Karl Benz in Germany.",
+        "It is the largest economy in Europe."
+      ]
+    },
+    {
+      "id": 8,
+      "country_name": "France",
+      "capital": "Paris",
+      "population": 67000000,
+      "interesting_facts": [
+        "France is the most visited country in the world.",
+        "The French language has been spoken for over 2,000 years.",
+        "The Eiffel Tower was supposed to be dismantled after 20 years.",
+        "France is the largest country in the European Union by area.",
+        "The Louvre in Paris is the most visited museum in the world."
+      ]
+    },
+    {
+      "id": 9,
+      "country_name": "Russia",
+      "capital": "Moscow",
+      "population": 144000000,
+      "interesting_facts": [
+        "Russia is the largest country in the world by land area.",
+        "It spans 11 time zones.",
+        "The Trans-Siberian Railway is the longest railway in the world.",
+        "Lake Baikal in Russia is the deepest freshwater lake in the world.",
+        "Russia is home to more than 100 ethnic groups."
+      ]
+    },
+    {
+      "id": 10,
+      "country_name": "Canada",
+      "capital": "Ottawa",
+      "population": 38000000,
+      "interesting_facts": [
+        "Canada is the second largest country in the world by area.",
+        "It has the longest coastline of any country in the world.",
+        "Canada has more lakes than any other country.",
+        "The name 'Canada' comes from the indigenous word 'Kanata', meaning 'village'.",
+        "Canada has two official languages: English and French."
+      ]
+    },
+    {
+      "id": 11,
+      "country_name": "United Kingdom",
+      "capital": "London",
+      "population": 67000000,
+      "interesting_facts": [
+        "The UK is made up of England, Scotland, Wales, and Northern Ireland.",
+        "The Queen's image appears on the currency of more countries than any other monarch.",
+        "Big Ben is actually the name of the bell inside the clock tower.",
+        "It has the world's oldest underground railway system, the London Underground.",
+        "The UK has produced many of the world's most influential musicians and bands."
+      ]
+    },
+    {
+      "id": 12,
+      "country_name": "Italy",
+      "capital": "Rome",
+      "population": 59000000,
+      "interesting_facts": [
+        "Rome has a state within a state: Vatican City, the smallest country in the world.",
+        "Italy has the most UNESCO World Heritage Sites in the world.",
+        "Pizza was invented in Naples, Italy.",
+        "Italy is home to the world's oldest university, the University of Bologna.",
+        "Venice is made up of 118 islands connected by over 400 bridges."
+      ]
+    },
+    {
+      "id": 13,
+      "country_name": "South Africa",
+      "capital": "Pretoria, Bloemfontein, Cape Town",
+      "population": 60000000,
+      "interesting_facts": [
+        "South Africa has three capitals: Pretoria (executive), Bloemfontein (judicial), and Cape Town (legislative).",
+        "It is known as the 'Rainbow Nation' due to its cultural diversity.",
+        "Table Mountain is one of the oldest mountains in the world.",
+        "The country is the world's largest producer of platinum.",
+        "It is home to 11 official languages."
+      ]
+    },
+    {
+      "id": 14,
+      "country_name": "Mexico",
+      "capital": "Mexico City",
+      "population": 126000000,
+      "interesting_facts": [
+        "Mexico City is sinking about 10 cm a year due to its foundation on a lakebed.",
+        "Mexico introduced chocolate, chilies, and corn to the world.",
+        "It has the largest pyramid in the world, the Great Pyramid of Cholula.",
+        "The Day of the Dead (Día de los Muertos) is a UNESCO-recognized cultural heritage.",
+        "Mexico has 68 official languages, including Spanish and 67 indigenous languages."
+      ]
+    },
+    {
+      "id": 15,
+      "country_name": "Argentina",
+      "capital": "Buenos Aires",
+      "population": 45000000,
+      "interesting_facts": [
+        "Argentina is the birthplace of the tango dance.",
+        "It is home to the highest mountain in the Americas, Aconcagua.",
+        "Argentina has a region called Patagonia, known for its stunning landscapes.",
+        "It is the largest Spanish-speaking country by area.",
+        "The first animated feature film was made in Argentina."
+      ]
+    },
+    {
+      "id": 16,
+      "country_name": "Egypt",
+      "capital": "Cairo",
+      "population": 104000000,
+      "interesting_facts": [
+        "Egypt is home to the only remaining ancient wonder, the Great Pyramid of Giza.",
+        "The Nile River, the world's longest river, runs through Egypt.",
+        "Egypt has one of the oldest and most continuous cultures in the world.",
+        "The ancient Egyptians were the first to develop a writing system called hieroglyphics.",
+        "Cairo is the largest city in Africa and the Middle East."
+      ]
+    },
+    {
+      "id": 17,
+      "country_name": "Turkey",
+      "capital": "Ankara",
+      "population": 85000000,
+      "interesting_facts": [
+        "Turkey is the only country that spans two continents, Europe and Asia.",
+        "Istanbul, formerly Constantinople, is the only city in the world on two continents.",
+        "The Trojan War mentioned in Homer's Iliad took place in Western Turkey.",
+        "Turkey has one of the oldest and largest covered markets, the Grand Bazaar.",
+        "The Temple of Artemis, one of the Seven Wonders of the Ancient World, was located in Turkey."
+      ]
+    },
+    {
+      "id": 18,
+      "country_name": "Spain",
+      "capital": "Madrid",
+      "population": 47000000,
+      "interesting_facts": [
+        "Spain is the second largest country in the European Union by area.",
+        "The world's oldest restaurant, Botín, is in Madrid.",
+        "Spain has more bars per capita than any other EU country.",
+        "It is home to the world's most popular sport, football (soccer).",
+        "The Spanish language is spoken by over 460 million people worldwide."
+      ]
+    },
+    {
+      "id": 19,
+      "country_name": "Saudi Arabia",
+      "capital": "Riyadh",
+      "population": 35000000,
+      "interesting_facts": [
+        "Saudi Arabia is the largest country in the Middle East by land area.",
+        "It is home to the two holiest cities in Islam, Mecca and Medina.",
+        "The country has no rivers.",
+        "It is one of the world's leading oil producers.",
+        "Saudi Arabia plans to build the futuristic city 'NEOM' on the Red Sea."
+      ]
+    },
+    {
+      "id": 20,
+      "country_name": "Indonesia",
+      "capital": "Jakarta",
+      "population": 276000000,
+      "interesting_facts": [
+        "Indonesia is the world's largest archipelago, with over 17,000 islands.",
+        "It is the world's largest producer of palm oil.",
+        "Indonesia has the highest number of active volcanoes in the world.",
+        "It is the fourth most populous country in the world.",
+        "The Komodo dragon, the world's largest lizard, is native to Indonesia."
+      ]
+    },
+    {
+      "id": 21,
+      "country_name": "Thailand",
+      "capital": "Bangkok",
+      "population": 70000000,
+      "interesting_facts": [
+        "Thailand is the only Southeast Asian country that was never colonized.",
+        "It is known as the 'Land of Smiles' due to its friendly people.",
+        "Bangkok has the world's longest city name.",
+        "Thailand is home to the world's largest gold Buddha statue.",
+        "The Thai language has 44 consonants and 32 vowels."
+      ]
+    },
+    {
+      "id": 22,
+      "country_name": "Vietnam",
+      "capital": "Hanoi",
+      "population": 98000000,
+      "interesting_facts": [
+        "Vietnam is the world's largest exporter of cashew nuts.",
+        "It has more motorbikes than any other country per capita.",
+        "Ha Long Bay is a UNESCO World Heritage Site with over 1,600 limestone islands.",
+        "Vietnamese cuisine is known for its balance of flavors and fresh ingredients.",
+        "The country has one of the world's fastest-growing economies."
+      ]
+    },
+    {
+      "id": 23,
+      "country_name": "South Korea",
+      "capital": "Seoul",
+      "population": 52000000,
+      "interesting_facts": [
+        "South Korea is the world's most wired country with the fastest internet speeds.",
+        "It has a tradition of Confucianism that influences its society.",
+        "K-Pop and Korean dramas are popular worldwide.",
+        "South Korea has the highest rate of plastic surgery per capita.",
+        "The country has a demilitarized zone (DMZ) separating it from North Korea."
+      ]
+    },
+    {
+      "id": 24,
+      "country_name": "Nigeria",
+      "capital": "Abuja",
+      "population": 211000000,
+      "interesting_facts": [
+        "Nigeria is the most populous country in Africa.",
+        "It is known as the 'Giant of Africa' due to its large population and economy.",
+        "Nollywood, the Nigerian film industry, is one of the largest in the world.",
+        "Nigeria has over 500 different ethnic groups.",
+        "The country is the largest oil producer in Africa."
+      ]
+    },
+    {
+      "id": 25,
+      "country_name": "Kenya",
+      "capital": "Nairobi",
+      "population": 54000000,
+      "interesting_facts": [
+        "Kenya is known for its diverse landscapes, from savannas to mountains.",
+        "It is famous for its long-distance runners.",
+        "Kenya is home to the Great Rift Valley, a major geological feature.",
+        "The Maasai Mara is one of the best-known wildlife reserves in the world.",
+        "Kenya is one of the world's leading producers of tea and coffee."
+      ]
+    },
+    {
+      "id": 26,
+      "country_name": "Greece",
+      "capital": "Athens",
+      "population": 10400000,
+      "interesting_facts": [
+        "Greece is considered the birthplace of democracy and Western philosophy.",
+        "It has more archaeological museums than any other country in the world.",
+        "Mount Olympus is the mythical home of the Greek gods.",
+        "The Greek language has been spoken for over 3,000 years.",
+        "Greece has the longest coastline in Europe."
+      ]
+    },
+    {
+      "id": 27,
+      "country_name": "Netherlands",
+      "capital": "Amsterdam",
+      "population": 17500000,
+      "interesting_facts": [
+        "The Netherlands is known for its windmills and tulip fields.",
+        "It has more bicycles than people.",
+        "The Dutch were among the first to legalize same-sex marriage.",
+        "Amsterdam has over 1,200 bridges.",
+        "The Netherlands is the world's second largest exporter of food and agricultural products."
+      ]
+    },
+    {
+      "id": 28,
+      "country_name": "Sweden",
+      "capital": "Stockholm",
+      "population": 10000000,
+      "interesting_facts": [
+        "Sweden has one of the highest standards of living in the world.",
+        "It is home to the world's first ice hotel.",
+        "Sweden is known for its innovative design and technology.",
+        "The country has a strong welfare state with universal healthcare and education.",
+        "Sweden is one of the most forested countries in Europe."
+      ]
+    },
+    {
+      "id": 29,
+      "country_name": "Norway",
+      "capital": "Oslo",
+      "population": 5400000,
+      "interesting_facts": [
+        "Norway is known for its stunning fjords and natural landscapes.",
+        "It has been ranked as the happiest country in the world several times.",
+        "Norway is one of the world's leading producers of oil and gas.",
+        "The Nobel Peace Prize is awarded in Oslo every year.",
+        "It has one of the highest Human Development Index rankings."
+      ]
+    },
+    {
+      "id": 30,
+      "country_name": "Switzerland",
+      "capital": "Bern",
+      "population": 8700000,
+      "interesting_facts": [
+        "Switzerland has four official languages: German, French, Italian, and Romansh.",
+        "It is known for its neutrality and has not been in a war since 1815.",
+        "Switzerland is famous for its watches and chocolates.",
+        "The country has over 7,000 lakes.",
+        "It is home to the world's longest railway tunnel, the Gotthard Base Tunnel."
+      ]
+    },
+    {
+      "id": 31,
+      "country_name": "Portugal",
+      "capital": "Lisbon",
+      "population": 10200000,
+      "interesting_facts": [
+        "Portugal is the oldest country in Europe with the same borders.",
+        "It is known for its beautiful coastline and historic architecture.",
+        "Portuguese is the official language of 9 countries.",
+        "Portugal has the world's oldest bookstore, Livraria Bertrand, established in 1732.",
+        "It is famous for its Port wine and Fado music."
+      ]
+    },
+    {
+      "id": 32,
+      "country_name": "Morocco",
+      "capital": "Rabat",
+      "population": 37000000,
+      "interesting_facts": [
+        "Morocco is known for its diverse landscapes, from deserts to mountains.",
+        "It is one of the largest producers of phosphates in the world.",
+        "The city of Marrakech is home to the largest traditional market in Morocco.",
+        "Morocco is one of the three countries not part of the African Union.",
+        "It has one of the oldest universities in the world, Al Quaraouiyine, founded in 859 AD."
+      ]
+    },
+    {
+      "id": 33,
+      "country_name": "Poland",
+      "capital": "Warsaw",
+      "population": 38000000,
+      "interesting_facts": [
+        "Poland has the world's largest castle, Malbork Castle.",
+        "It is home to the oldest operating salt mine, Wieliczka Salt Mine.",
+        "Poland has one of the world's most diverse ecosystems, the Białowieża Forest.",
+        "It is the largest exporter of amber in the world.",
+        "The first constitution in Europe was adopted in Poland in 1791."
+      ]
+    },
+    {
+      "id": 34,
+      "country_name": "Hungary",
+      "capital": "Budapest",
+      "population": 9700000,
+      "interesting_facts": [
+        "Hungary has the highest number of thermal springs in Europe.",
+        "The Rubik's Cube was invented by Hungarian Ernő Rubik.",
+        "Budapest has the second largest synagogue in the world.",
+        "Hungary has won more Olympic gold medals per capita than any other country.",
+        "Lake Balaton is the largest lake in Central Europe."
+      ]
+    },
+    {
+      "id": 35,
+      "country_name": "Czech Republic",
+      "capital": "Prague",
+      "population": 10600000,
+      "interesting_facts": [
+        "The Czech Republic is the most beer-consuming country in the world per capita.",
+        "It has over 2,000 castles, more than any other country in Europe.",
+        "The Charles Bridge in Prague is one of the oldest stone bridges in Europe.",
+        "Czechia is home to the world's largest ancient castle complex, Prague Castle.",
+        "The word 'robot' was first used by Czech writer Karel Čapek in 1920."
+      ]
+    },
+    {
+      "id": 36,
+      "country_name": "New Zealand",
+      "capital": "Wellington",
+      "population": 5000000,
+      "interesting_facts": [
+        "New Zealand was the first country to grant women the right to vote in 1893.",
+        "It is known as the 'Adventure Capital of the World' for its extreme sports.",
+        "New Zealand has no native land mammals except for bats.",
+        "The country is home to more sheep than people.",
+        "The Lord of the Rings movie trilogy was filmed in New Zealand."
+      ]
+    },
+    {
+      "id": 37,
+      "country_name": "Philippines",
+      "capital": "Manila",
+      "population": 110000000,
+      "interesting_facts": [
+        "The Philippines is the second largest archipelago in the world with over 7,600 islands.",
+        "It is the world's largest producer of coconuts.",
+        "The Philippines has the longest Christmas season, starting in September.",
+        "It is home to the world's smallest primate, the tarsier.",
+        "The country has a 95% literacy rate, one of the highest in Asia."
+      ]
+    },
+    {
+      "id": 38,
+      "country_name": "Malaysia",
+      "capital": "Kuala Lumpur",
+      "population": 33000000,
+      "interesting_facts": [
+        "Malaysia is home to the world's tallest twin towers, the Petronas Towers.",
+        "It has one of the world's most diverse ecosystems, including rainforests and coral reefs.",
+        "Malaysia is known for its diverse culture and cuisine.",
+        "It is one of the world's largest producers of rubber and palm oil.",
+        "Malaysia has a rich history of trade and has been a major trading hub for centuries."
+      ]
+    },
+    {
+      "id": 39,
+      "country_name": "Colombia",
+      "capital": "Bogotá",
+      "population": 51000000,
+      "interesting_facts": [
+        "Colombia is the second most biodiverse country in the world, after Brazil.",
+        "It is known for its coffee, which is considered some of the best in the world.",
+        "Colombia is the world's largest producer of emeralds.",
+        "The country has coasts on both the Pacific Ocean and the Caribbean Sea.",
+        "Colombia is home to the famous Carnaval de Barranquilla, one of the largest carnivals in the world."
+      ]
+    },
+    {
+      "id": 40,
+      "country_name": "Argentina",
+      "capital": "Buenos Aires",
+      "population": 45000000,
+      "interesting_facts": [
+        "Argentina is the eighth largest country in the world by area.",
+        "It is known for its tango music and dance.",
+        "Argentina is one of the world's leading producers of wine.",
+        "It is home to the highest peak in the Americas, Mount Aconcagua.",
+        "Argentina has one of the highest literacy rates in Latin America."
+      ]
+    },
+    {
+      "id": 41,
+      "country_name": "Chile",
+      "capital": "Santiago",
+      "population": 19000000,
+      "interesting_facts": [
+        "Chile is the longest country in the world from north to south.",
+        "It has the driest desert in the world, the Atacama Desert.",
+        "Chile is one of the world's largest producers of copper.",
+        "It is home to Easter Island, famous for its giant stone statues.",
+        "Chile has one of the strongest economies in Latin America."
+      ]
+    },
+    {
+      "id": 42,
+      "country_name": "Peru",
+      "capital": "Lima",
+      "population": 33000000,
+      "interesting_facts": [
+        "Peru is home to Machu Picchu, one of the New Seven Wonders of the World.",
+        "The Amazon River, the world's second longest river, starts in Peru.",
+        "It has one of the world's most diverse ecosystems, with rainforests, mountains, and deserts.",
+        "Peru is the birthplace of the potato, with over 3,000 varieties.",
+        "The country has a rich cultural heritage, with influences from the Inca, Spanish, and other cultures."
+      ]
+    }
+  ]
+  
